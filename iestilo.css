@@ -1,0 +1,60 @@
+body{
+	margin: 0em;
+	font-family: helvetica, arial, sans-serif;
+}
+main{
+	margin-top: 100px;
+}
+header{
+	position: fixed;
+	width: 100%;
+}
+html{
+	scroll-behavior: smooth;
+}
+.cover{
+	height: 900px;
+	background-image: url(./Imagenes/IMG_20220406_165902_616.jpg);
+	color: orange;
+	background-size: cover;
+	background-position: center;
+	background-color: rgba(0,0,0,0.5);
+	background-blend-mode: darken;
+}
+.estilo1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+}
+.estilo2{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 23px;
+}
+.cover_redes{
+	height: 900px;
+	background-color: black;
+	color: orange;
+	background-image: url(./Imagenes/redes.jfif);
+	background-size: cover;
+	background-position: center;
+	background-color: rgba(0,0,0,0.5);
+	background-blend-mode: darken;
+	 <button> <h5>Escucha una de mis caciones favoritas</h5>
+<audio controls>
+    <source src="C:\Users\cack0\Music\Gera MX, Christian Nodal - Botella Tras Botella Video Oficial.mp3" type="audio.mp3"
+<audio>
+<button>
+}
+h1{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.cover_hobbies{
+		height: 1000px;
+		background-color: black;
+		color: orange;
+		background-image: url(./Imagenes/IMG_20210403_182751_882.jpg);
+		background-size: cover;
+		background-position: center;
+		background-color: rgba(0,0,0,0.5);
+		background-blend-mode: darken;
+
+}

@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: white;
+}
+
+p {
+	font-family: helvetica, arial, sans-serif;
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  color: white;
+
+}
+
+button {
+	background-color: #f44336;
+}
